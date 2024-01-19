@@ -1,0 +1,19 @@
+.event-details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .event-summary {
+    margin-bottom: 20px;
+  }
+  
+  .event-details-body {
+    margin-bottom: 20px;
+  }
+  
+  .event-registration {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
